@@ -1,4 +1,4 @@
-# page-last-updated
+# Hubspot Page Last Updated Script
 Use javascript and a sitemap.xml file to show when a page was last updated.
 
 Step 1. Copy and Past code to your project.
