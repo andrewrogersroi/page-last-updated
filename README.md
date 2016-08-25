@@ -2,7 +2,8 @@
 Use javascript and a sitemap.xml file to show when a page was last updated.
 
 Step 1. Copy and Past code to your project.
-<script>
+<br>
+<code>
 function getPageUpdatedDate()
 {
     
@@ -36,7 +37,7 @@ function getPageUpdatedDate()
         }
     });
 }
-</script>
+</code>
 
 Step 2. Replace the "url: "http://www.yoursiteurl.com/sitemap.xml"," with the link to your sitemap.xml
 
